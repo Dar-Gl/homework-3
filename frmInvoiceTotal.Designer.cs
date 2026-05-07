@@ -1,0 +1,14 @@
+﻿btnCalculate.Location = new Point(68, 189);
+btnCalculate.Name = "btnCalculate";
+btnCalculate.Size = new Size(75, 23);
+btnCalculate.TabIndex = 8;
+btnCalculate.Text = "&Calculate";
+btnCalculate.UseVisualStyleBackColor = true;
+btnCalculate.Click += btnCalculate_Click;
+btnCalculate.Location = new Point(68, 189);
+btnCalculate.Name = "btnCalculate";
+btnCalculate.Size = new Size(75, 23);
+btnCalculate.TabIndex = 8;
+btnCalculate.Text = "&Calculate";
+btnCalculate.UseVisualStyleBackColor = true;
+btnCalculate.Click += btnCalculate_Click;
